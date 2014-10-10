@@ -44,7 +44,7 @@
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
   <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
-  <project path="hardware/qcom/display-caf-new" name="Schischu/android_hardware_qcom_display-caf-new" />
+  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" />
   <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" />
   <project path="device/samsung/lt03lte" name="Schischu/android_device_samsung_lt03lte" remote="github" revision="cm-11.0" />
   <project path="kernel/samsung/lt03lte" name="Schischu/android_kernel_samsung_lt03lte" remote="github" revision="master" />
@@ -214,7 +214,7 @@
   <project path="external/mdnsresponder" name="CyanogenMod/android_external_mdnsresponder" groups="pdk" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/mksh" name="CyanogenMod/android_external_mksh" groups="pdk" />
-  <project path="external/mockito" name="platform/external/mockito" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="external/mockito" name="CyanogenMod/android_external_mockito" />
   <project path="external/mockwebserver" name="CyanogenMod/android_external_mockwebserver" />
   <project path="external/mp4parser" name="CyanogenMod/android_external_mp4parser" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" />
