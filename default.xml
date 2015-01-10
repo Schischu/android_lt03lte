@@ -41,7 +41,7 @@
 
   <project path="device/samsung/lt03lte" name="Schischu/aosp_android_device_samsung_lt03lte" remote="github" revision="lollipop-release" />
   <project path="kernel/samsung/lt03lte" name="Schischu/android_kernel_samsung_lt03lte" remote="github" revision="lollipop-release" />
-  <project path="kernel/samsung/lt03lte" name="Schischu/android_vendor_samsung_lt03lte" remote="github" revision="lollipop-release" />
+  <project path="vendor/samsung/lt03lte" name="Schischu/android_vendor_samsung_lt03lte" remote="github" revision="lollipop-release" />
 
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
