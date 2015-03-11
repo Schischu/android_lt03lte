@@ -14,7 +14,7 @@
 
 
   <!--project path="build" name="platform/build" groups="pdk,tradefed" -->
-  <project path="build" name="Schischu/aosp_android_build" groups="pdk,tradefed" remote="github" revision="lollipop-mr1-release >
+  <project path="build" name="Schischu/aosp_android_build" groups="pdk,tradefed" remote="github" revision="lollipop-mr1-release" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
